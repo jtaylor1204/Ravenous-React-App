@@ -1,71 +1,36 @@
-# Getting Started with Create React App
+# Ravenous (Yelp-inspired)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![raveneous](https://user-images.githubusercontent.com/102535399/211427558-1c7bd4ca-1ae6-48e6-8b8a-0f836073083b.gif)
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+This app was created as an inspiration for the Yelp restaurant search functionality with the use of [Yelp's Fusion API] (https://docs.developer.yelp.com/docs/fusion-intro).
 
-### `npm start`
+#### LIVE LINK : https://jtaylor1204.github.io/Ravenous-React-App/
+To see this app's functionality, please visit the [CORS webpage] (https://cors-anywhere.herokuapp.com/corsdemo) and click, "request temporary access to demo server." Enjoy!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- You can search for restaurants based on a food category and location of your choosing
 
-### `npm test`
+- Results can be filtered by best match, highest rated, and most reviewed.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Bugs/Updates to be made - I am always open to comments and guidance on how to solve these!
 
-### `npm run build`
+- [ ] Install CORS
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tech Used / Dependencies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- ReactJS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Images from [Codecademy] (https://codecademy.com)
 
-### `npm run eject`
+- Project credit to [Codecademy] (https://codecademy.com)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contribute
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Feel free to clone this repository to use for your own projects, or submit a pull request!
+- Always open to chat, collaborations, comments, and taco dates 🌮 [Jaidataylor4@gmail.com](mailto:jaidataylor4@gmail.com)
+- [GitHub Profile](https://github.com/jtaylor1204)
+- [Portfolio](https://jaidataylor.tech)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Ravenous-React-App
