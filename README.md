@@ -4,10 +4,10 @@
 
 ## Overview
 
-This app was created as an inspiration for the Yelp restaurant search functionality with the use of [Yelp's Fusion API] (https://docs.developer.yelp.com/docs/fusion-intro).
+This app was created as an inspiration for the Yelp restaurant search functionality with the use of [Yelp's Fusion API](https://docs.developer.yelp.com/docs/fusion-intro).
 
 #### LIVE LINK : https://jtaylor1204.github.io/Ravenous-React-App/
-To see this app's functionality, please visit the [CORS webpage] (https://cors-anywhere.herokuapp.com/corsdemo) and click, "request temporary access to demo server." Enjoy!
+To see this app's functionality, please visit the [CORS webpage](https://cors-anywhere.herokuapp.com/corsdemo) and click, "request temporary access to demo server." Enjoy!
 
 ## Features
 
