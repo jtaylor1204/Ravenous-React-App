@@ -23,9 +23,9 @@ To see this app's functionality, please visit the [CORS webpage](https://cors-an
 
 - ReactJS
 
-- Images from [Codecademy] (https://codecademy.com)
+- Images from [Codecademy](https://codecademy.com)
 
-- Project credit to [Codecademy] (https://codecademy.com)
+- Project credit to [Codecademy](https://codecademy.com)
 
 ## Contribute
 
