@@ -1,23 +1,24 @@
 import React from 'react';
 import './App.css';
-
 import BusinessList from '../BusinessList/BusinessList';
 import SearchBar from '../SearchBar/SearchBar';
-
+// Imported Yelp object
 import Yelp from '../../util/Yelp';
 
+// Class component to be rendered to root
 class App extends React.Component {
   constructor(props) {
     super(props);
-
+// Set initial state of businesses
     this.state = {
       businesses: []
     };
-
+// Bind the method
     this.searchYelp = this.searchYelp.bind(this);
   }
-
+// The Yelp API parameters
   searchYelp(term, location, sortBy) {
+// Access yelp api object functionality
     Yelp.search(term, location, sortBy).then(businesses => {
       this.setState({businesses: businesses});
     });
