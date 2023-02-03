@@ -17,7 +17,7 @@ To see this app's functionality, please visit the [CORS webpage](https://cors-an
 
 ## Bugs/Updates to be made - I am always open to comments and guidance on how to solve these!
 
-- [ ] Install CORS
+- [ ] Add search filter by distance
 
 ## Tech Used / Dependencies
 
